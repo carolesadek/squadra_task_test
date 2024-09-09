@@ -6,5 +6,7 @@ public class main {
         // This will print the message without a new line
         System.out.print("Hello, ");
         System.out.print("World!");
+        ;
+        
     }
 }
